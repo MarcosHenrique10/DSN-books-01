@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id183g">
+			<!--  -->
+			<text src="../023.xhtml#empty"/>
+			<audio clipBegin="139684ms" clipEnd="140219ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id183">
+			<!-- Thank -->
+			<text src="../023.xhtml#w183"/>
+			<audio clipBegin="140219ms" clipEnd="140619ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id184">
+			<!-- you -->
+			<text src="../023.xhtml#w184"/>
+			<audio clipBegin="140619ms" clipEnd="140879ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id185">
+			<!-- Flounder -->
+			<text src="../023.xhtml#w185"/>
+			<audio clipBegin="140879ms" clipEnd="142089ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id186">
+			<!-- said -->
+			<text src="../023.xhtml#w186"/>
+			<audio clipBegin="142089ms" clipEnd="142409ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- Ariel -->
+			<text src="../023.xhtml#w187"/>
+			<audio clipBegin="142409ms" clipEnd="143649ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- You're -->
+			<text src="../023.xhtml#w188"/>
+			<audio clipBegin="143649ms" clipEnd="144139ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- the -->
+			<text src="../023.xhtml#w189"/>
+			<audio clipBegin="144139ms" clipEnd="144219ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- best -->
+			<text src="../023.xhtml#w190"/>
+			<audio clipBegin="144219ms" clipEnd="144769ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id191">
+			<!-- at -->
+			<text src="../023.xhtml#w191"/>
+			<audio clipBegin="144769ms" clipEnd="145059ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id192">
+			<!-- being -->
+			<text src="../023.xhtml#w192"/>
+			<audio clipBegin="145059ms" clipEnd="145429ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id193">
+			<!-- my -->
+			<text src="../023.xhtml#w193"/>
+			<audio clipBegin="145429ms" clipEnd="145819ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id194">
+			<!-- friend -->
+			<text src="../023.xhtml#w194"/>
+			<audio clipBegin="145819ms" clipEnd="146339ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id194g">
+			<!--  -->
+			<text src="../023.xhtml#empty1"/>
+			<audio clipBegin="146339ms" clipEnd="147244ms" src="../audio/9781484752234.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="15515ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15515ms" clipEnd="15635ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Catherine -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15635ms" clipEnd="16125ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Hapka -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16125ms" clipEnd="17365ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17365ms" clipEnd="17895ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17895ms" clipEnd="18025ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- the -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="18025ms" clipEnd="18135ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Disney -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="18135ms" clipEnd="18535ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="18535ms" clipEnd="19195ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Artists -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="19195ms" clipEnd="19735ms" src="../audio/9781423192329.m4a"/>
+    </par>
+    <par id="id9g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="19735ms" clipEnd="20605ms" src="../audio/9781423192329.m4a"/>
+    </par>
+  </body>
+</smil>

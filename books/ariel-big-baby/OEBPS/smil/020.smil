@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id238g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="143109ms" clipEnd="144074ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id238">
+			<!-- It -->
+			<text src="../020.xhtml#w238"/>
+			<audio clipBegin="144074ms" clipEnd="144254ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id239">
+			<!-- was -->
+			<text src="../020.xhtml#w239"/>
+			<audio clipBegin="144254ms" clipEnd="144464ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id240">
+			<!-- a -->
+			<text src="../020.xhtml#w240"/>
+			<audio clipBegin="144464ms" clipEnd="144534ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id241">
+			<!-- mama -->
+			<text src="../020.xhtml#w241"/>
+			<audio clipBegin="144534ms" clipEnd="145294ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id242">
+			<!-- and -->
+			<text src="../020.xhtml#w242"/>
+			<audio clipBegin="145294ms" clipEnd="145604ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id243">
+			<!-- baby -->
+			<text src="../020.xhtml#w243"/>
+			<audio clipBegin="145604ms" clipEnd="146094ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id244">
+			<!-- whale -->
+			<text src="../020.xhtml#w244"/>
+			<audio clipBegin="146094ms" clipEnd="146874ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id244g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="146874ms" clipEnd="147434ms" src="../audio/9781484743973.m4a"/>
+		</par>
+	</body>
+</smil>

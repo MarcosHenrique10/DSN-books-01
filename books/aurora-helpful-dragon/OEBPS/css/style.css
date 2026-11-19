@@ -1,0 +1,319 @@
+img{z-index:-1;}
+
+body {
+	width: 765px;
+	height: 981px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 981px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf);
+}
+
+@font-face{
+font-family:"monotype";
+src: url(../fonts/monotype.ttf);
+}
+
+@font-face{
+font-family:"CantoriaMTStd-Italic";
+src: url(../fonts/CantoriaMTStd-Italic.otf);
+}
+
+@font-face{
+font-family:"CantoriaMTStd";
+src: url(../fonts/CantoriaMTStd.otf);
+}
+
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.nonindent{
+	font-size: 19px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:0px;
+	font-family:"CantoriaMTStd";
+}
+p.indent{
+	font-size: 19px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 22px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CantoriaMTStd";
+}
+
+p.indent1{
+	font-size: 19px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CantoriaMTStd";
+}
+
+p.indent2{
+	font-size: 19px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+	font-family:"CantoriaMTStd";
+}
+
+p.indent2a{
+	font-size: 19px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:0px;
+	font-family:"CantoriaMTStd";
+}
+
+p.indent3{
+	font-size: 19px;
+	line-height: 23px;
+	text-align: left;
+	text-indent: 63px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CantoriaMTStd";
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 752px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item1{
+	position: absolute;
+	top: 730px;
+	left: 0px;
+	right: 0px;
+}
+div.page3_item2{
+	position: absolute;
+	top: 897px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 85px;
+	left: 140px;
+	right: 0px;
+width: 502px;height: 197px;}
+div.page6_item1{
+	position: absolute;
+	top: 723px;
+	left: 165px;
+	right: 0px;
+width: 559px;height: 216px;}
+div.page7_item1{
+	position: absolute;
+	top: 65px;
+	left: 92px;
+	right: 0px;
+width: 492px;height: 171px;}
+div.page8_item1{
+	position: absolute;
+	top: 65px;
+	left: 105px;
+	right: 0px;
+width: 622px;height: 287px;}
+div.page10_item1{
+	position: absolute;
+	top: 65px;
+	left: 124px;
+	right: 0px;
+width: 487px;height: 192px;}
+div.page11_item1{
+	position: absolute;
+	top: 780px;
+	left: 92px;
+	right: 0px;
+width: 614px;height: 167px;}
+div.page12_item1{
+	position: absolute;
+	top: 64px;
+	left: 134px;
+	right: 0px;
+width: 572px;height: 238px;}
+div.page14_item1{
+	position: absolute;
+	top: 64px;
+	left: 307px;
+	right: 0px;
+width: 360px;height: 313px;}
+div.page15_item1{
+	position: absolute;
+	top: 771px;
+	left: 108px;
+	right: 0px;
+width: 585px;height: 178px;}
+div.page16_item1{
+	position: absolute;
+	top: 756px;
+	left: 123px;
+	right: 0px;
+width: 606px;height: 198px;}
+div.page17_item1{
+	position: absolute;
+	top: 755px;
+	left: 112px;
+	right: 0px;
+width: 566px;height: 185px;}
+div.page19_item1{
+	position: absolute;
+	top: 710px;
+	left: 127px;
+	right: 0px;
+width: 587px;height: 212px;}
+div.page20_item1{
+	position: absolute;
+	top: 65px;
+	left: 216px;
+	right: 0px;
+width: 495px;height: 235px;}
+div.page23_item1{
+	position: absolute;
+	top: 65px;
+	left: 129px;
+	right: 0px;
+width: 541px;height: 173px;}
+div.page24_item1{
+	position: absolute;
+	top: 64px;
+	left: 322px;
+	right: 0px;
+width: 420px;height: 265px;}
+div.page26_item1{
+	position: absolute;
+	top: 65px;
+	left: 96px;
+	right: 0px;
+width: 564px;height: 214px;}
+div.page28_item1{
+	position: absolute;
+	top: 458px;
+	left: 144px;
+	right: 0px;
+width: 501px;height: 217px;}
+
+span.italic{
+font-family:"CantoriaMTStd-Italic";
+}
+
+span.arialp{
+font-family:"arial";
+}
+
+p.copy{
+	font-size: 12px;
+	line-height: 17px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-family:"CantoriaMTStd";
+}
+
+p.author{
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-family:"CantoriaMTStd";
+}
+
+p.logo{
+	font-size: 14px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CantoriaMTStd";
+}
+
+p.back{
+	font-size: 22px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	word-spacing:1px;
+	margin-bottom: 0px;
+}
+
+span.big{
+font-family:"monotype";
+font-size:60px;
+color:#634DA2;
+}
+
+span.big1{
+font-family:"monotype";
+font-size:30px;
+color:#634DA2;
+}
+
+.media-overlay-active { color:#f00 !important; }
+
+
+.media-overlay-active span.big,
+.media-overlay-active span.color1
+{
+color: #f00!important;
+}
+span.color1{
+color:#634DA2;
+}

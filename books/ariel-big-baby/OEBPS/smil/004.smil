@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id14g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="15469ms" clipEnd="16424ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- IT -->
+			<text src="../004.xhtml#w14"/>
+			<audio clipBegin="16424ms" clipEnd="16614ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- WAS -->
+			<text src="../004.xhtml#w15"/>
+			<audio clipBegin="16614ms" clipEnd="16824ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- AN -->
+			<text src="../004.xhtml#w16"/>
+			<audio clipBegin="16824ms" clipEnd="16944ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- EXCITING -->
+			<text src="../004.xhtml#w17"/>
+			<audio clipBegin="16944ms" clipEnd="17684ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- DAY -->
+			<text src="../004.xhtml#w18"/>
+			<audio clipBegin="17684ms" clipEnd="18114ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- FOR -->
+			<text src="../004.xhtml#w19"/>
+			<audio clipBegin="18114ms" clipEnd="18324ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- ARIEL -->
+			<text src="../004.xhtml#w20"/>
+			<audio clipBegin="18324ms" clipEnd="19674ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- Whales -->
+			<text src="../004.xhtml#w21"/>
+			<audio clipBegin="19674ms" clipEnd="20284ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- were -->
+			<text src="../004.xhtml#w22"/>
+			<audio clipBegin="20284ms" clipEnd="20374ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- going -->
+			<text src="../004.xhtml#w23"/>
+			<audio clipBegin="20374ms" clipEnd="20624ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- to -->
+			<text src="../004.xhtml#w24"/>
+			<audio clipBegin="20624ms" clipEnd="20774ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- swim -->
+			<text src="../004.xhtml#w25"/>
+			<audio clipBegin="20774ms" clipEnd="21294ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- nearby -->
+			<text src="../004.xhtml#w26"/>
+			<audio clipBegin="21294ms" clipEnd="22394ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- and -->
+			<text src="../004.xhtml#w27"/>
+			<audio clipBegin="22394ms" clipEnd="22544ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- she -->
+			<text src="../004.xhtml#w28"/>
+			<audio clipBegin="22544ms" clipEnd="22744ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- was -->
+			<text src="../004.xhtml#w29"/>
+			<audio clipBegin="22744ms" clipEnd="23024ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- on -->
+			<text src="../004.xhtml#w30"/>
+			<audio clipBegin="23024ms" clipEnd="23194ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- her -->
+			<text src="../004.xhtml#w31"/>
+			<audio clipBegin="23194ms" clipEnd="23334ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- way -->
+			<text src="../004.xhtml#w32"/>
+			<audio clipBegin="23334ms" clipEnd="23684ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- to -->
+			<text src="../004.xhtml#w33"/>
+			<audio clipBegin="23684ms" clipEnd="23844ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- see -->
+			<text src="../004.xhtml#w34"/>
+			<audio clipBegin="23844ms" clipEnd="24054ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- them -->
+			<text src="../004.xhtml#w35"/>
+			<audio clipBegin="24054ms" clipEnd="24434ms" src="../audio/9781484743973.m4a"/>
+		</par>
+		<par id="id35g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="24434ms" clipEnd="24683ms" src="../audio/9781484743973.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,239 @@
+img{z-index:-1;}
+
+body {
+	width: 866px;
+	height: 866px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 866px;
+	height: 866px;
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf);
+}
+
+@font-face{
+font-family:"CantoriaMTStd-Italic";
+src: url(../fonts/CantoriaMTStd-Italic.otf);
+}
+
+@font-face{
+font-family:"CantoriaMTStd-SemiBold";
+src: url(../fonts/CantoriaMTStd-SemiBold.otf);
+}
+
+@font-face{
+font-family:"CantoriaMTStd";
+src: url(../fonts/CantoriaMTStd.otf);
+}
+
+@font-face{
+font-family:"harringt";
+src: url(../fonts/harringt.ttf);
+}
+
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.indent{
+	font-size: 18px;
+	line-height: 22px;
+	text-align: left;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CantoriaMTStd";
+}
+
+p.indent1{
+	font-size: 18px;
+	line-height: 22px;
+	text-align: left;
+	text-indent: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CantoriaMTStd";
+	margin-left:35px;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 633px;
+	left: 258px;
+	right: 0px;
+width: 336px;height: 181px;}
+div.page3_item1{
+	position: absolute;
+	top: 707px;
+	left: 319px;
+	right: 0px;
+width: 262px;height: 42px;}
+div.page3_item2{
+	position: absolute;
+	top: 797px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 53px;
+	left: 145px;
+	right: 0px;
+}
+div.page7_item1{
+	position: absolute;
+	top: 45px;
+	left: 60px;
+	right: 0px;
+}
+div.page8_item1{
+	position: absolute;
+	top: 722px;
+	left: 65px;
+	right: 0px;
+width: 651px;height: 131px;}
+div.page9_item1{
+	position: absolute;
+	top: 48px;
+	left: 62px;
+	right: 0px;
+width: 598px;height: 200px;}
+div.page10_item1{
+	position: absolute;
+	top: 55px;
+	left: 198px;
+	right: 0px;
+width: 648px;height: 195px;}
+div.page12_item1{
+	position: absolute;
+	top: 693px;
+	left: 65px;
+	right: 0px;
+width: 588px;height: 114px;}
+div.page15_item1{
+	position: absolute;
+	top: 405px;
+	left: 236px;
+	right: 0px;
+width: 563px;height: 183px;}
+div.page17_item1{
+	position: absolute;
+	top: 64px;
+	left: 121px;
+	right: 0px;
+width: 572px;height: 117px;}
+div.page18_item1{
+	position: absolute;
+	top: 725px;
+	left: 171px;
+	right: 0px;
+width: 612px;height: 111px;}
+div.page20_item1{
+	position: absolute;
+	top: 63px;
+	left: 76px;
+	right: 0px;
+width: 699px;height: 291px;}
+div.page22_item1{
+	position: absolute;
+	top: 30px;
+	left: 63px;
+	right: 0px;
+width: 632px;height: 159px;}
+
+span.italic{
+font-family:"CantoriaMTStd-Italic";
+}
+
+span.arialp{
+font-family:"arial";
+}
+
+p.copy1{
+	font-size: 12px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-family:"CantoriaMTStd";
+}
+
+p.author{
+	font-size: 13px;
+	line-height: 17px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CantoriaMTStd";
+}
+
+p.logo{
+	font-size: 11px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CantoriaMTStd-SemiBold";
+}
+
+span.big{
+float:left;
+font-family:"harringt";
+font-size:85px;
+padding-top:5px;
+padding-bottom:10px;
+color:#0B93B5;
+}
+
+span.quote{
+font-size:18px;
+vertical-align:40px;
+font-family:"CantoriaMTStd";
+color:black;
+}
+
+.media-overlay-active { color:#f00 !important; }
+
+
+.media-overlay-active span.italic,
+.media-overlay-active span.big,
+.media-overlay-active span.quote
+{
+color: #f00!important;
+}

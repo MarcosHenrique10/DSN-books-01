@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id19g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="24614ms" clipEnd="25259ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- Hurry -->
+			<text src="../005.xhtml#w19"/>
+			<audio clipBegin="25259ms" clipEnd="25609ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- up -->
+			<text src="../005.xhtml#w20"/>
+			<audio clipBegin="25609ms" clipEnd="25949ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- Flounder -->
+			<text src="../005.xhtml#w21"/>
+			<audio clipBegin="25949ms" clipEnd="27219ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- replied -->
+			<text src="../005.xhtml#w22"/>
+			<audio clipBegin="27219ms" clipEnd="27819ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- the -->
+			<text src="../005.xhtml#w23"/>
+			<audio clipBegin="27819ms" clipEnd="27968ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- mermaid -->
+			<text src="../005.xhtml#w24"/>
+			<audio clipBegin="27968ms" clipEnd="28509ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id24g">
+			<!--  -->
+			<text src="../005.xhtml#empty1"/>
+			<audio clipBegin="28509ms" clipEnd="29414ms" src="../audio/9781484752234.m4a"/>
+		</par>
+	</body>
+</smil>

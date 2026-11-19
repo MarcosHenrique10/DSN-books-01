@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="8093ms" src="../audio/9781484752074.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Quest -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="8093ms" clipEnd="8593ms" src="../audio/9781484752074.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- for -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="8593ms" clipEnd="8773ms" src="../audio/9781484752074.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- the -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="8773ms" clipEnd="8953ms" src="../audio/9781484752074.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Purple -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="8953ms" clipEnd="9443ms" src="../audio/9781484752074.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Pearl -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="9443ms" clipEnd="9983ms" src="../audio/9781484752074.m4a"/>
+		</par>
+		<par id="id5g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="9983ms" clipEnd="11057ms" src="../audio/9781484752074.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id145g">
+			<!--  -->
+			<text src="../019.xhtml#empty"/>
+			<audio clipBegin="113949ms" clipEnd="114499ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id145">
+			<!-- Adventures -->
+			<text src="../019.xhtml#w145"/>
+			<audio clipBegin="114499ms" clipEnd="115399ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id146">
+			<!-- are -->
+			<text src="../019.xhtml#w146"/>
+			<audio clipBegin="115399ms" clipEnd="115689ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id147">
+			<!-- exciting -->
+			<text src="../019.xhtml#w147"/>
+			<audio clipBegin="115689ms" clipEnd="117159ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id148">
+			<!-- agreed -->
+			<text src="../019.xhtml#w148"/>
+			<audio clipBegin="117159ms" clipEnd="117609ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id149">
+			<!-- Ariel -->
+			<text src="../019.xhtml#w149"/>
+			<audio clipBegin="117609ms" clipEnd="118119ms" src="../audio/9781484752234.m4a"/>
+		</par>
+		<par id="id149g">
+			<!--  -->
+			<text src="../019.xhtml#empty1"/>
+			<audio clipBegin="118119ms" clipEnd="119054ms" src="../audio/9781484752234.m4a"/>
+		</par>
+	</body>
+</smil>
