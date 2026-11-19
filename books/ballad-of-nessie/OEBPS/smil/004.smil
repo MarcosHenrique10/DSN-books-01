@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id14g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="25119ms" clipEnd="26295ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- In -->
+      <text src="../004.xhtml#w14"/>
+      <audio clipBegin="26295ms" clipEnd="26475ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- the -->
+      <text src="../004.xhtml#w15"/>
+      <audio clipBegin="26475ms" clipEnd="26755ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- bonny -->
+      <text src="../004.xhtml#w16"/>
+      <audio clipBegin="26755ms" clipEnd="27185ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- blue -->
+      <text src="../004.xhtml#w17"/>
+      <audio clipBegin="27185ms" clipEnd="27625ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Highlands -->
+      <text src="../004.xhtml#w18"/>
+      <audio clipBegin="27625ms" clipEnd="28905ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- where -->
+      <text src="../004.xhtml#w19"/>
+      <audio clipBegin="28905ms" clipEnd="29115ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- the -->
+      <text src="../004.xhtml#w20"/>
+      <audio clipBegin="29115ms" clipEnd="29225ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- bagpipes -->
+      <text src="../004.xhtml#w21"/>
+      <audio clipBegin="29225ms" clipEnd="30015ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- play -->
+      <text src="../004.xhtml#w22"/>
+      <audio clipBegin="30015ms" clipEnd="31285ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- lives -->
+      <text src="../004.xhtml#w23"/>
+      <audio clipBegin="31285ms" clipEnd="31535ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- the -->
+      <text src="../004.xhtml#w24"/>
+      <audio clipBegin="31535ms" clipEnd="31655ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- creature -->
+      <text src="../004.xhtml#w25"/>
+      <audio clipBegin="31655ms" clipEnd="32745ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- called -->
+      <text src="../004.xhtml#w26"/>
+      <audio clipBegin="32745ms" clipEnd="33155ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- Nessie -->
+      <text src="../004.xhtml#w27"/>
+      <audio clipBegin="33155ms" clipEnd="34565ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- but -->
+      <text src="../004.xhtml#w28"/>
+      <audio clipBegin="34565ms" clipEnd="34785ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- it -->
+      <text src="../004.xhtml#w29"/>
+      <audio clipBegin="34785ms" clipEnd="34905ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- wasn't -->
+      <text src="../004.xhtml#w30"/>
+      <audio clipBegin="34905ms" clipEnd="35215ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- always -->
+      <text src="../004.xhtml#w31"/>
+      <audio clipBegin="35215ms" clipEnd="35655ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- this -->
+      <text src="../004.xhtml#w32"/>
+      <audio clipBegin="35655ms" clipEnd="35885ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- way -->
+      <text src="../004.xhtml#w33"/>
+      <audio clipBegin="35885ms" clipEnd="36215ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id33g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="36215ms" clipEnd="36905ms" src="../audio/9781484751138.m4a"/>
+    </par>
+  </body>
+</smil>

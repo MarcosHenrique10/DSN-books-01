@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id95g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="69478ms" clipEnd="70445ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id95">
+      <!-- Until -->
+      <text src="../008.xhtml#w95"/>
+      <audio clipBegin="70445ms" clipEnd="71125ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id96">
+      <!-- one -->
+      <text src="../008.xhtml#w96"/>
+      <audio clipBegin="71125ms" clipEnd="71595ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id97">
+      <!-- gloomy -->
+      <text src="../008.xhtml#w97"/>
+      <audio clipBegin="71595ms" clipEnd="72205ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- gray -->
+      <text src="../008.xhtml#w98"/>
+      <audio clipBegin="72205ms" clipEnd="72585ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id99">
+      <!-- day -->
+      <text src="../008.xhtml#w99"/>
+      <audio clipBegin="72585ms" clipEnd="73395ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id100">
+      <!-- at -->
+      <text src="../008.xhtml#w100"/>
+      <audio clipBegin="73395ms" clipEnd="73525ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id101">
+      <!-- a -->
+      <text src="../008.xhtml#w101"/>
+      <audio clipBegin="73525ms" clipEnd="73665ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id102">
+      <!-- quarter -->
+      <text src="../008.xhtml#w102"/>
+      <audio clipBegin="73665ms" clipEnd="74095ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id103">
+      <!-- past -->
+      <text src="../008.xhtml#w103"/>
+      <audio clipBegin="74095ms" clipEnd="74465ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- two -->
+      <text src="../008.xhtml#w104"/>
+      <audio clipBegin="74465ms" clipEnd="75585ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- from -->
+      <text src="../008.xhtml#w105"/>
+      <audio clipBegin="75585ms" clipEnd="75855ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id106">
+      <!-- some -->
+      <text src="../008.xhtml#w106"/>
+      <audio clipBegin="75855ms" clipEnd="76265ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id107">
+      <!-- distant -->
+      <text src="../008.xhtml#w107"/>
+      <audio clipBegin="76265ms" clipEnd="76875ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id108">
+      <!-- dark -->
+      <text src="../008.xhtml#w108"/>
+      <audio clipBegin="76875ms" clipEnd="77305ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id109">
+      <!-- land -->
+      <text src="../008.xhtml#w109"/>
+      <audio clipBegin="77305ms" clipEnd="78515ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id110">
+      <!-- came -->
+      <text src="../008.xhtml#w110"/>
+      <audio clipBegin="78515ms" clipEnd="78875ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id111">
+      <!-- a -->
+      <text src="../008.xhtml#w111"/>
+      <audio clipBegin="78875ms" clipEnd="78965ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id112">
+      <!-- tartan -->
+      <text src="../008.xhtml#w112"/>
+      <audio clipBegin="78965ms" clipEnd="79725ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id113">
+      <!-- clad -->
+      <text src="../008.xhtml#w113"/>
+      <audio clipBegin="79725ms" clipEnd="80165ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id114">
+      <!-- crew -->
+      <text src="../008.xhtml#w114"/>
+      <audio clipBegin="80165ms" clipEnd="80705ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id114g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="80705ms" clipEnd="81130ms" src="../audio/9781484751138.m4a"/>
+    </par>
+  </body>
+</smil>

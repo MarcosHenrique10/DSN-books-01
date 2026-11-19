@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id165g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="91365ms" clipEnd="92402ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id165">
+      <!-- Prince -->
+      <text src="../010.xhtml#w165"/>
+      <audio clipBegin="92402ms" clipEnd="92772ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id166">
+      <!-- Phillip -->
+      <text src="../010.xhtml#w166"/>
+      <audio clipBegin="92772ms" clipEnd="93162ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id167">
+      <!-- made -->
+      <text src="../010.xhtml#w167"/>
+      <audio clipBegin="93162ms" clipEnd="93392ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id168">
+      <!-- sure -->
+      <text src="../010.xhtml#w168"/>
+      <audio clipBegin="93392ms" clipEnd="93752ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id169">
+      <!-- Samson -->
+      <text src="../010.xhtml#w169"/>
+      <audio clipBegin="93752ms" clipEnd="94352ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id170">
+      <!-- had -->
+      <text src="../010.xhtml#w170"/>
+      <audio clipBegin="94352ms" clipEnd="94742ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id171">
+      <!-- a -->
+      <text src="../010.xhtml#w171"/>
+      <audio clipBegin="94742ms" clipEnd="94782ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id172">
+      <!-- bath -->
+      <text src="../010.xhtml#w172"/>
+      <audio clipBegin="94782ms" clipEnd="95282ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id173">
+      <!-- by -->
+      <text src="../010.xhtml#w173"/>
+      <audio clipBegin="95282ms" clipEnd="95402ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id174">
+      <!-- promising -->
+      <text src="../010.xhtml#w174"/>
+      <audio clipBegin="95402ms" clipEnd="96062ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id175">
+      <!-- him -->
+      <text src="../010.xhtml#w175"/>
+      <audio clipBegin="96062ms" clipEnd="96232ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id176">
+      <!-- an -->
+      <text src="../010.xhtml#w176"/>
+      <audio clipBegin="96232ms" clipEnd="96482ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id177">
+      <!-- extra -->
+      <text src="../010.xhtml#w177"/>
+      <audio clipBegin="96482ms" clipEnd="96852ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id178">
+      <!-- bucket -->
+      <text src="../010.xhtml#w178"/>
+      <audio clipBegin="96852ms" clipEnd="97202ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id179">
+      <!-- of -->
+      <text src="../010.xhtml#w179"/>
+      <audio clipBegin="97202ms" clipEnd="97432ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id180">
+      <!-- oats -->
+      <text src="../010.xhtml#w180"/>
+      <audio clipBegin="97432ms" clipEnd="97972ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id181">
+      <!-- and -->
+      <text src="../010.xhtml#w181"/>
+      <audio clipBegin="97972ms" clipEnd="98102ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id182">
+      <!-- a -->
+      <text src="../010.xhtml#w182"/>
+      <audio clipBegin="98102ms" clipEnd="98242ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id183">
+      <!-- few -->
+      <text src="../010.xhtml#w183"/>
+      <audio clipBegin="98242ms" clipEnd="98452ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id184">
+      <!-- carrots -->
+      <text src="../010.xhtml#w184"/>
+      <audio clipBegin="98452ms" clipEnd="99172ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id184g">
+      <!--  -->
+      <text src="../010.xhtml#empty1"/>
+      <audio clipBegin="99172ms" clipEnd="99662ms" src="../audio/9781484750469.m4a"/>
+    </par>
+  </body>
+</smil>

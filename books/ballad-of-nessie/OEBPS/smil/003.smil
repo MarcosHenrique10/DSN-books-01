@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14875ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14875ms" clipEnd="16355ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- The -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16355ms" clipEnd="16485ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Ballad -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16485ms" clipEnd="17305ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- of -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17305ms" clipEnd="17525ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Nessie -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17525ms" clipEnd="19465ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Written -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19465ms" clipEnd="19955ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19955ms" clipEnd="20145ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Kieran -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20145ms" clipEnd="20585ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Lachlan -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="20585ms" clipEnd="21825ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21825ms" clipEnd="22755ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- by -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="22755ms" clipEnd="23095ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Andy -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="23095ms" clipEnd="23405ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Harkness -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="23405ms" clipEnd="24155ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id13g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="24155ms" clipEnd="25119ms" src="../audio/9781484751138.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id602g">
+			<!--  -->
+			<text src="../017.xhtml#empty"/>
+			<audio clipBegin="311128ms" clipEnd="311708ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id602">
+			<!-- Bambi -->
+			<text src="../017.xhtml#w602"/>
+			<audio clipBegin="311708ms" clipEnd="312128ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id603">
+			<!-- and -->
+			<text src="../017.xhtml#w603"/>
+			<audio clipBegin="312128ms" clipEnd="312348ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id604">
+			<!-- his -->
+			<text src="../017.xhtml#w604"/>
+			<audio clipBegin="312348ms" clipEnd="312588ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id605">
+			<!-- mother -->
+			<text src="../017.xhtml#w605"/>
+			<audio clipBegin="312588ms" clipEnd="313218ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id606">
+			<!-- soon -->
+			<text src="../017.xhtml#w606"/>
+			<audio clipBegin="313218ms" clipEnd="313668ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id607">
+			<!-- discovered -->
+			<text src="../017.xhtml#w607"/>
+			<audio clipBegin="313668ms" clipEnd="314468ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id608">
+			<!-- a -->
+			<text src="../017.xhtml#w608"/>
+			<audio clipBegin="314468ms" clipEnd="314568ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id609">
+			<!-- small -->
+			<text src="../017.xhtml#w609"/>
+			<audio clipBegin="314568ms" clipEnd="315128ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id610">
+			<!-- patch -->
+			<text src="../017.xhtml#w610"/>
+			<audio clipBegin="315128ms" clipEnd="315628ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id611">
+			<!-- of -->
+			<text src="../017.xhtml#w611"/>
+			<audio clipBegin="315628ms" clipEnd="315748ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id612">
+			<!-- grass -->
+			<text src="../017.xhtml#w612"/>
+			<audio clipBegin="315748ms" clipEnd="316538ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id613">
+			<!-- growing -->
+			<text src="../017.xhtml#w613"/>
+			<audio clipBegin="316538ms" clipEnd="317088ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id614">
+			<!-- through -->
+			<text src="../017.xhtml#w614"/>
+			<audio clipBegin="317088ms" clipEnd="317318ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id615">
+			<!-- the -->
+			<text src="../017.xhtml#w615"/>
+			<audio clipBegin="317318ms" clipEnd="317458ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id616">
+			<!-- snow -->
+			<text src="../017.xhtml#w616"/>
+			<audio clipBegin="317458ms" clipEnd="318598ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id617">
+			<!-- But -->
+			<text src="../017.xhtml#w617"/>
+			<audio clipBegin="318598ms" clipEnd="318848ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id618">
+			<!-- just -->
+			<text src="../017.xhtml#w618"/>
+			<audio clipBegin="318848ms" clipEnd="319238ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id619">
+			<!-- as -->
+			<text src="../017.xhtml#w619"/>
+			<audio clipBegin="319238ms" clipEnd="319378ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id620">
+			<!-- they -->
+			<text src="../017.xhtml#w620"/>
+			<audio clipBegin="319378ms" clipEnd="319618ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id621">
+			<!-- began -->
+			<text src="../017.xhtml#w621"/>
+			<audio clipBegin="319618ms" clipEnd="320078ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id622">
+			<!-- to -->
+			<text src="../017.xhtml#w622"/>
+			<audio clipBegin="320078ms" clipEnd="320328ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id623">
+			<!-- eat -->
+			<text src="../017.xhtml#w623"/>
+			<audio clipBegin="320328ms" clipEnd="321188ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id624">
+			<!-- Bambi's -->
+			<text src="../017.xhtml#w624"/>
+			<audio clipBegin="321188ms" clipEnd="321748ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id625">
+			<!-- mother -->
+			<text src="../017.xhtml#w625"/>
+			<audio clipBegin="321748ms" clipEnd="322248ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id626">
+			<!-- sensed -->
+			<text src="../017.xhtml#w626"/>
+			<audio clipBegin="322248ms" clipEnd="322998ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id627">
+			<!-- danger -->
+			<text src="../017.xhtml#w627"/>
+			<audio clipBegin="322998ms" clipEnd="323578ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id627g">
+			<!--  -->
+			<text src="../017.xhtml#empty1"/>
+			<audio clipBegin="323578ms" clipEnd="324548ms" src="../audio/9781484735060.m4a"/>
+		</par>
+	</body>
+</smil>

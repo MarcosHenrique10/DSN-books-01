@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id404g">
+      <!--  -->
+      <text src="../024.xhtml#empty"/>
+      <audio clipBegin="245522ms" clipEnd="246645ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id404">
+      <!-- She -->
+      <text src="../024.xhtml#w404"/>
+      <audio clipBegin="246645ms" clipEnd="246895ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id405">
+      <!-- cried -->
+      <text src="../024.xhtml#w405"/>
+      <audio clipBegin="246895ms" clipEnd="247445ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id406">
+      <!-- cups -->
+      <text src="../024.xhtml#w406"/>
+      <audio clipBegin="247445ms" clipEnd="248025ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id407">
+      <!-- and -->
+      <text src="../024.xhtml#w407"/>
+      <audio clipBegin="248025ms" clipEnd="248315ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id408">
+      <!-- pitchers -->
+      <text src="../024.xhtml#w408"/>
+      <audio clipBegin="248315ms" clipEnd="249565ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id409">
+      <!-- bottles -->
+      <text src="../024.xhtml#w409"/>
+      <audio clipBegin="249565ms" clipEnd="250125ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id410">
+      <!-- and -->
+      <text src="../024.xhtml#w410"/>
+      <audio clipBegin="250125ms" clipEnd="250495ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id411">
+      <!-- buckets -->
+      <text src="../024.xhtml#w411"/>
+      <audio clipBegin="250495ms" clipEnd="251125ms" src="../audio/9781484751138.m4a"/>
+    </par>
+    <par id="id411g">
+      <!--  -->
+      <text src="../024.xhtml#empty"/>
+      <audio clipBegin="251125ms" clipEnd="251645ms" src="../audio/9781484751138.m4a"/>
+    </par>
+  </body>
+</smil>

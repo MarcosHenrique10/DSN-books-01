@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="12518ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="12518ms" clipEnd="13308ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- by -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="13308ms" clipEnd="13548ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Addison -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="13548ms" clipEnd="13998ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Leigh -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="13998ms" clipEnd="14408ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id4g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="14408ms" clipEnd="15373ms" src="../audio/9781484735060.m4a"/>
+		</par>
+	</body>
+</smil>

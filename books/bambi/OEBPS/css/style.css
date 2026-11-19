@@ -1,0 +1,430 @@
+img{z-index:-1;}
+
+body {
+	width: 747px;
+	height: 1004px;
+	margin: 0;
+	border: none;
+}
+
+@font-face{
+  font-family: "AptiferSlabLTPro-Medium";
+  src: url(../fonts/AptiferSlabLTPro-Medium.ttf);
+}
+
+@font-face{
+  font-family: "ArialMT";
+  src: url(../fonts/ArialMT.ttf);
+}
+
+
+@font-face{
+  font-family: "Constantia-Italic";
+  src: url(../fonts/Constantia-Italic.ttf);
+}
+
+@font-face{
+  font-family: "Constantia";
+  src: url(../fonts/Constantia.ttf);
+}
+
+@font-face{
+  font-family: "SignPainter-HouseCasual";
+  src: url(../fonts/SignPainter-HouseCasual.ttf);
+}
+
+
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 747px;
+	height: 1004px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+
+p.nonindent{
+	font-family: "Constantia";
+	font-size: 24px;
+	line-height: 35px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.indent{
+	font-family: "Constantia";
+	font-size: 24px;
+	line-height: 35px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+
+p.copy{
+	font-size: 15px;
+	line-height: 19px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "Constantia";
+}
+
+p.copy1{
+	font-size: 15px;
+	line-height: 19px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 19px;
+	margin-bottom: 0px;
+	font-family: "Constantia";
+}
+
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 736px;
+	left: 0px;
+	right: 10px;
+}
+
+div.page3_item1{
+	position: absolute;
+	top: 788px;
+	left: 11px;
+	right: 0px;
+}
+
+div.page3_item2{
+	position: absolute;
+	top: 925px;
+	left: 5px;
+	right: 0px;
+}
+
+
+div.page4_item1{
+	position: absolute;
+	top: 90px;
+	left: 227px;
+	right: 0px;
+}
+
+div.page4_item2{
+	position: absolute;
+	top: 231px;
+	left: 84px;
+	right: 0px;
+}
+
+div.page4_item3{
+	position: absolute;
+	top: 300px;
+	left: 84px;
+	right: 0px;
+}
+
+
+div.page5_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+div.page6_item1{
+	position: absolute;
+	top: 615px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page7_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page9_item1{
+	position: absolute;
+	top: 55px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page10_item1{
+	position: absolute;
+	top: 650px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page11_item1{
+	position: absolute;
+	top: 55px;
+	left: 85px;
+	right: 0px;
+}
+div.page12_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page13_item1{
+	position: absolute;
+	top: 755px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page14_item1{
+	position: absolute;
+	top: 90px;
+	left: 63px;
+	right: 0px;
+}
+
+div.page15_item1{
+	position: absolute;
+	top: 90px;
+	left: 65px;
+	right: 0px;
+}
+div.page16_item1{
+	position: absolute;
+	top: 825px;
+	left: 95px;
+	right: 0px;
+}
+
+div.page17_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page18_item1{
+	position: absolute;
+	top: 720px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page19_item1{
+	position: absolute;
+	top: 55px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page20_item1{
+	position: absolute;
+	top: 55px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page22_item1{
+	position: absolute;
+	top: 650px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page23_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page24_item1{
+	position: absolute;
+	top: 685px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page25_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page26_item1{
+	position: absolute;
+	top: 650px;
+	left: 85px;
+	right: 0px;
+}
+
+
+
+div.page27_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page28_item1{
+	position: absolute;
+	top: 720px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page29_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page30_item1{
+	position: absolute;
+	top: 755px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page31_item1{
+	position: absolute;
+	top: 90px;
+	left: 85px;
+	right: 0px;
+}
+
+
+div.page33_item1{
+	position: absolute;
+	top: 685px;
+	left: 85px;
+	right: 0px;
+}
+
+div.page34_item1{
+	position: absolute;
+	top: 90px;
+	left: 160px;
+	right: 0px;
+}
+
+
+span.italic{
+  font-family: "Constantia-Italic";
+}
+
+span.arial{
+  font-family: "ArialMT";
+}
+
+span.styletext{
+  font-family: "SignPainter-HouseCasual";
+  color:#2765A3;
+  font-size:44px;
+}
+
+
+
+span.size{
+font-family: "AptiferSlabLTPro-Medium";
+font-size: 26px;
+}
+
+
+p.title{
+	font-size: 22px;
+	line-height: 23px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "Constantia";
+}
+
+p.title1{
+	font-size: 18px;
+	line-height: 23px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: "Constantia";
+}
+
+
+
+.media-overlay-active {
+ color:#f00 !important;
+ padding-bottom:14px;
+}
+
+.media-overlay-active span.italic,
+.media-overlay-active span.styletext,
+.media-overlay-active span.size,
+.media-overlay-active span.dot
+{
+ color:#f00 !important;
+ padding-bottom:14px;
+}
+
+
+.sp
+{
+letter-spacing:2px;
+}
+
+span.dot
+{
+	font-family: "Constantia";
+	font-size: 24px;
+
+}

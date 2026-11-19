@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1026g">
+			<!--  -->
+			<text src="../027.xhtml#empty"/>
+			<audio clipBegin="521643ms" clipEnd="522278ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1026">
+			<!-- All -->
+			<text src="../027.xhtml#w1026"/>
+			<audio clipBegin="522278ms" clipEnd="522508ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1027">
+			<!-- the -->
+			<text src="../027.xhtml#w1027"/>
+			<audio clipBegin="522508ms" clipEnd="522608ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1028">
+			<!-- forest -->
+			<text src="../027.xhtml#w1028"/>
+			<audio clipBegin="522608ms" clipEnd="523168ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1029">
+			<!-- animals -->
+			<text src="../027.xhtml#w1029"/>
+			<audio clipBegin="523168ms" clipEnd="523678ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1030">
+			<!-- were -->
+			<text src="../027.xhtml#w1030"/>
+			<audio clipBegin="523678ms" clipEnd="523918ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1031">
+			<!-- afraid -->
+			<text src="../027.xhtml#w1031"/>
+			<audio clipBegin="523918ms" clipEnd="524458ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1032">
+			<!-- too -->
+			<text src="../027.xhtml#w1032"/>
+			<audio clipBegin="524458ms" clipEnd="525408ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1033">
+			<!-- Thumper -->
+			<text src="../027.xhtml#w1033"/>
+			<audio clipBegin="525408ms" clipEnd="526068ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1034">
+			<!-- Flower -->
+			<text src="../027.xhtml#w1034"/>
+			<audio clipBegin="526068ms" clipEnd="526928ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1035">
+			<!-- and -->
+			<text src="../027.xhtml#w1035"/>
+			<audio clipBegin="526928ms" clipEnd="527078ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1036">
+			<!-- their -->
+			<text src="../027.xhtml#w1036"/>
+			<audio clipBegin="527078ms" clipEnd="527358ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1037">
+			<!-- other -->
+			<text src="../027.xhtml#w1037"/>
+			<audio clipBegin="527358ms" clipEnd="527668ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1038">
+			<!-- friends -->
+			<text src="../027.xhtml#w1038"/>
+			<audio clipBegin="527668ms" clipEnd="528368ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1039">
+			<!-- saw -->
+			<text src="../027.xhtml#w1039"/>
+			<audio clipBegin="528368ms" clipEnd="528688ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1040">
+			<!-- the -->
+			<text src="../027.xhtml#w1040"/>
+			<audio clipBegin="528688ms" clipEnd="528778ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1041">
+			<!-- rising -->
+			<text src="../027.xhtml#w1041"/>
+			<audio clipBegin="528778ms" clipEnd="529418ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1042">
+			<!-- smoke -->
+			<text src="../027.xhtml#w1042"/>
+			<audio clipBegin="529418ms" clipEnd="530148ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1043">
+			<!-- and -->
+			<text src="../027.xhtml#w1043"/>
+			<audio clipBegin="530148ms" clipEnd="530268ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1044">
+			<!-- ran -->
+			<text src="../027.xhtml#w1044"/>
+			<audio clipBegin="530268ms" clipEnd="530688ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1045">
+			<!-- to -->
+			<text src="../027.xhtml#w1045"/>
+			<audio clipBegin="530688ms" clipEnd="530828ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1046">
+			<!-- safety -->
+			<text src="../027.xhtml#w1046"/>
+			<audio clipBegin="530828ms" clipEnd="531488ms" src="../audio/9781484735060.m4a"/>
+		</par>
+		<par id="id1046g">
+			<!--  -->
+			<text src="../027.xhtml#empty1"/>
+			<audio clipBegin="531488ms" clipEnd="532483ms" src="../audio/9781484735060.m4a"/>
+		</par>
+	</body>
+</smil>

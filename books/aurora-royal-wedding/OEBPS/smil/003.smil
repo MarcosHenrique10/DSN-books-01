@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="7942ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Disney -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="7942ms" clipEnd="8472ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Princess -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="8472ms" clipEnd="10142ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Aurora's -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10142ms" clipEnd="11242ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Royal -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="11242ms" clipEnd="11882ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Wedding -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="11882ms" clipEnd="13612ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Written -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="13612ms" clipEnd="14102ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="14102ms" clipEnd="14922ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- John -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14922ms" clipEnd="15462ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Edwards -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="15462ms" clipEnd="16772ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="16772ms" clipEnd="17492ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- by -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="17492ms" clipEnd="18232ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- The -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="18232ms" clipEnd="18342ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Disney -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="18342ms" clipEnd="18912ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="18912ms" clipEnd="19842ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Artists -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="19842ms" clipEnd="20562ms" src="../audio/9781484750469.m4a"/>
+    </par>
+    <par id="id15g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="20562ms" clipEnd="21582ms" src="../audio/9781484750469.m4a"/>
+    </par>
+  </body>
+</smil>
