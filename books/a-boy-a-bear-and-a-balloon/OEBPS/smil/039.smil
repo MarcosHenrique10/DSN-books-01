@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1585g">
+			<!--  -->
+			<text src="../039.xhtml#empty"/>
+			<audio clipBegin="836880ms" clipEnd="837405ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1585">
+			<!-- And -->
+			<text src="../039.xhtml#w1585"/>
+			<audio clipBegin="837405ms" clipEnd="837585ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1586">
+			<!-- so -->
+			<text src="../039.xhtml#w1586"/>
+			<audio clipBegin="837585ms" clipEnd="838285ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1587">
+			<!-- Christopher -->
+			<text src="../039.xhtml#w1587"/>
+			<audio clipBegin="838285ms" clipEnd="838925ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1588">
+			<!-- Robin -->
+			<text src="../039.xhtml#w1588"/>
+			<audio clipBegin="838925ms" clipEnd="839225ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1589">
+			<!-- led -->
+			<text src="../039.xhtml#w1589"/>
+			<audio clipBegin="839225ms" clipEnd="839685ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1590">
+			<!-- the -->
+			<text src="../039.xhtml#w1590"/>
+			<audio clipBegin="839685ms" clipEnd="839825ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1591">
+			<!-- way -->
+			<text src="../039.xhtml#w1591"/>
+			<audio clipBegin="839825ms" clipEnd="840315ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1592">
+			<!-- to -->
+			<text src="../039.xhtml#w1592"/>
+			<audio clipBegin="840315ms" clipEnd="841155ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1593">
+			<!-- SOMEWHERE -->
+			<text src="../039.xhtml#w1593"/>
+			<audio clipBegin="841155ms" clipEnd="842185ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1593g">
+			<!--  -->
+			<text src="../039.xhtml#empty1"/>
+			<audio clipBegin="842185ms" clipEnd="842444ms" src="../audio/9781368027823.m4a"/>
+		</par>
+	</body>
+</smil>

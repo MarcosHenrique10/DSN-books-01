@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="5435ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- A -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="5435ms" clipEnd="5745ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- BOY -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="5745ms" clipEnd="6545ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- A -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="6545ms" clipEnd="6875ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- BEAR -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="6875ms" clipEnd="7615ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- a -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="7615ms" clipEnd="7695ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- BAlLON -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="7695ms" clipEnd="9955ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- By -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="9955ms" clipEnd="10095ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Brittany -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="10095ms" clipEnd="10605ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Rubiano -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="10605ms" clipEnd="12085ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="12085ms" clipEnd="12755ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- by -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="12755ms" clipEnd="12985ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Mike -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="12985ms" clipEnd="13415ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Wall -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="13415ms" clipEnd="13875ms" src="../audio/9781368027823.m4a"/>
+		</par>
+		<par id="id13g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="13875ms" clipEnd="15690ms" src="../audio/9781368027823.m4a"/>
+		</par>
+	</body>
+</smil>

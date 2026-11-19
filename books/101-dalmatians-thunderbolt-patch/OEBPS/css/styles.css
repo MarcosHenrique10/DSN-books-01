@@ -1,0 +1,96 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"chaloops-medium-regular";
+	src: url(../fonts/Chaloops-Medium.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"times-regular";
+	src: url(../fonts/TimesRoman.otf);
+}
+@font-face {
+	font-family:"chaloops-regular";
+	src: url(../fonts/Chaloops-Regular.otf);
+}
+@font-face {
+	font-family:"chaloops-bold";
+	src: url(../fonts/Chaloops-Bold.otf);
+}
+.font-1 {
+	font-family:"chaloops-medium-regular";
+	font-size:54px;
+	line-height:53px;
+}
+.font-2 {
+	font-family:"times-regular";
+	font-size:13px;
+	line-height:15px;
+}
+.font-3 {
+	font-family:"arial-regular";
+	font-size:13px;
+	line-height:15px;
+}
+.font-4 {
+	font-family:"chaloops-medium-regular";
+	font-size:62px;
+	line-height:26px;
+}
+.font-5 {
+	font-family:"chaloops-regular";
+	font-size:19px;
+	line-height:31px;
+}
+.font-6 {
+	font-family:"chaloops-bold";
+	font-size:43px;
+	line-height:67px;
+}
+.font-7 {
+	font-family:"chaloops-regular";
+	font-size:49px;
+	line-height:76px;
+}
+.font-8 {
+	font-family:"chaloops-medium-regular";
+	font-size:79px;
+	line-height:0px;
+}
+.font-9 {
+	font-family:"chaloops-bold";
+	font-size:19px;
+	line-height:31px;
+}
+.font-10 {
+	font-family:"chaloops-bold";
+	font-size:23px;
+	line-height:0px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:723px; height:985px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1445px; height:985px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:723px; height:985px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/
+
+.copyright-spacer { padding-top: 0.75em; }
+.light-brown-highlight span.media-overlay-active { color: #d18e48 !important; }
+.dark-brown-highlight span.media-overlay-active { color: #733d27 !important; }
+.dark-purple-highlight span.media-overlay-active { color: #1d2d59 !important; }
+.teal-highlight span.media-overlay-active { color: #50aba2 !important; }
+/*.teal-highlight span.media-overlay-active { color: #50aba2 !important; }*/

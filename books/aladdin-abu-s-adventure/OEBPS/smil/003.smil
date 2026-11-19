@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="18388ms" src="../audio/9781484749685.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Abu's -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="18388ms" clipEnd="18908ms" src="../audio/9781484749685.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Adventure -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="18908ms" clipEnd="19478ms" src="../audio/9781484749685.m4a"/>
+		</par>
+		<par id="id2g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="19478ms" clipEnd="20582ms" src="../audio/9781484749685.m4a"/>
+		</par>
+	</body>
+</smil>
