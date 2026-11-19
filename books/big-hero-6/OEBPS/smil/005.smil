@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id21g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="29699ms" clipEnd="30449ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- They -->
+      <text src="../005.xhtml#w21"/>
+      <audio clipBegin="30449ms" clipEnd="30699ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- LOVED -->
+      <text src="../005.xhtml#w22"/>
+      <audio clipBegin="30699ms" clipEnd="31129ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- to -->
+      <text src="../005.xhtml#w23"/>
+      <audio clipBegin="31129ms" clipEnd="31269ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- create -->
+      <text src="../005.xhtml#w24"/>
+      <audio clipBegin="31269ms" clipEnd="31859ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- fantastic -->
+      <text src="../005.xhtml#w25"/>
+      <audio clipBegin="31859ms" clipEnd="32669ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- new -->
+      <text src="../005.xhtml#w26"/>
+      <audio clipBegin="32669ms" clipEnd="32979ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- INVENTIONS -->
+      <text src="../005.xhtml#w27"/>
+      <audio clipBegin="32979ms" clipEnd="33729ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id27g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="33729ms" clipEnd="34638ms" src="../audio/9781484726372.m4a"/>
+    </par>
+  </body>
+</smil>

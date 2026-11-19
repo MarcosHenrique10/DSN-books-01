@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="10116ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Belle's -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="10116ms" clipEnd="10686ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Friendship -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="10686ms" clipEnd="11246ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Invention -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="11246ms" clipEnd="12856ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- By -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="12856ms" clipEnd="13166ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Amy -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="13166ms" clipEnd="13566ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Sky -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="13566ms" clipEnd="14016ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Koster -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="14016ms" clipEnd="15246ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="15246ms" clipEnd="16136ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="16136ms" clipEnd="16336ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Jean -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="16336ms" clipEnd="16846ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Paul -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="16846ms" clipEnd="17246ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Orpinas -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="17246ms" clipEnd="18136ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id12g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="18136ms" clipEnd="18911ms" src="../audio/9781484744024.m4a"/>
+		</par>
+	</body>
+</smil>

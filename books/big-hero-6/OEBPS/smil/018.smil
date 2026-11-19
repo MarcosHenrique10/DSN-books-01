@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id221g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="140146ms" clipEnd="141159ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id221">
+      <!-- Baymax's -->
+      <text src="../018.xhtml#w221"/>
+      <audio clipBegin="141159ms" clipEnd="141799ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id222">
+      <!-- sensors -->
+      <text src="../018.xhtml#w222"/>
+      <audio clipBegin="141799ms" clipEnd="142459ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id223">
+      <!-- were -->
+      <text src="../018.xhtml#w223"/>
+      <audio clipBegin="142459ms" clipEnd="142569ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id224">
+      <!-- picking -->
+      <text src="../018.xhtml#w224"/>
+      <audio clipBegin="142569ms" clipEnd="143029ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id225">
+      <!-- up -->
+      <text src="../018.xhtml#w225"/>
+      <audio clipBegin="143029ms" clipEnd="143259ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id226">
+      <!-- signs -->
+      <text src="../018.xhtml#w226"/>
+      <audio clipBegin="143259ms" clipEnd="143889ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id227">
+      <!-- of -->
+      <text src="../018.xhtml#w227"/>
+      <audio clipBegin="143889ms" clipEnd="144009ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id228">
+      <!-- life -->
+      <text src="../018.xhtml#w228"/>
+      <audio clipBegin="144009ms" clipEnd="144529ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id228g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="144529ms" clipEnd="145169ms" src="../audio/9781484726372.m4a"/>
+    </par>
+  </body>
+</smil>

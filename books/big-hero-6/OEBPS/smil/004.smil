@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id16g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="25821ms" clipEnd="26809ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Hiro -->
+      <text src="../004.xhtml#w16"/>
+      <audio clipBegin="26809ms" clipEnd="27299ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- and -->
+      <text src="../004.xhtml#w17"/>
+      <audio clipBegin="27299ms" clipEnd="27419ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Tadashi -->
+      <text src="../004.xhtml#w18"/>
+      <audio clipBegin="27419ms" clipEnd="28099ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- were -->
+      <text src="../004.xhtml#w19"/>
+      <audio clipBegin="28099ms" clipEnd="28319ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- brothers -->
+      <text src="../004.xhtml#w20"/>
+      <audio clipBegin="28319ms" clipEnd="28949ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id20g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="28949ms" clipEnd="29699ms" src="../audio/9781484726372.m4a"/>
+    </par>
+  </body>
+</smil>

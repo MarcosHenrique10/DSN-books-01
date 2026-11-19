@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id85g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="67854ms" clipEnd="68619ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- But -->
+      <text src="../009.xhtml#w85"/>
+      <audio clipBegin="68619ms" clipEnd="68739ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- Hiro -->
+      <text src="../009.xhtml#w86"/>
+      <audio clipBegin="68739ms" clipEnd="69399ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- was -->
+      <text src="../009.xhtml#w87"/>
+      <audio clipBegin="69399ms" clipEnd="69659ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id88">
+      <!-- not -->
+      <text src="../009.xhtml#w88"/>
+      <audio clipBegin="69659ms" clipEnd="69929ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id89">
+      <!-- alone -->
+      <text src="../009.xhtml#w89"/>
+      <audio clipBegin="69929ms" clipEnd="71319ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id90">
+      <!-- He -->
+      <text src="../009.xhtml#w90"/>
+      <audio clipBegin="71319ms" clipEnd="71499ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id91">
+      <!-- had -->
+      <text src="../009.xhtml#w91"/>
+      <audio clipBegin="71499ms" clipEnd="71769ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id92">
+      <!-- Tadashi's -->
+      <text src="../009.xhtml#w92"/>
+      <audio clipBegin="71769ms" clipEnd="72409ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id93">
+      <!-- nurse -->
+      <text src="../009.xhtml#w93"/>
+      <audio clipBegin="72409ms" clipEnd="72759ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id94">
+      <!-- bot -->
+      <text src="../009.xhtml#w94"/>
+      <audio clipBegin="72759ms" clipEnd="73229ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id95">
+      <!-- Baymax -->
+      <text src="../009.xhtml#w95"/>
+      <audio clipBegin="73229ms" clipEnd="73959ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id95g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="73959ms" clipEnd="74854ms" src="../audio/9781484726372.m4a"/>
+    </par>
+  </body>
+</smil>

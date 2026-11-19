@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="16299ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="16299ms" clipEnd="16699ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="16699ms" clipEnd="16899ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Laura -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16899ms" clipEnd="17269ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Hitchcock -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17269ms" clipEnd="18769ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18769ms" clipEnd="19439ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="19439ms" clipEnd="19689ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Victoria -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19689ms" clipEnd="20349ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Ying -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="20349ms" clipEnd="20959ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- and -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="20959ms" clipEnd="21119ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Mike -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21119ms" clipEnd="21519ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Yamada -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="21519ms" clipEnd="22689ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Designed -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="22689ms" clipEnd="23349ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- by -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="23349ms" clipEnd="23739ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Alfred -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="23739ms" clipEnd="24119ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Giuliani -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="24119ms" clipEnd="24859ms" src="../audio/9781484726372.m4a"/>
+    </par>
+    <par id="id15g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="24859ms" clipEnd="25821ms" src="../audio/9781484726372.m4a"/>
+    </par>
+  </body>
+</smil>

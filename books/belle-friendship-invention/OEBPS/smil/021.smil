@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id326g">
+			<!--  -->
+			<text src="../021.xhtml#empty"/>
+			<audio clipBegin="193456ms" clipEnd="193916ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id326">
+			<!-- This -->
+			<text src="../021.xhtml#w326"/>
+			<audio clipBegin="193916ms" clipEnd="194206ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id327">
+			<!-- is -->
+			<text src="../021.xhtml#w327"/>
+			<audio clipBegin="194206ms" clipEnd="194516ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id328">
+			<!-- fun -->
+			<text src="../021.xhtml#w328"/>
+			<audio clipBegin="194516ms" clipEnd="195236ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id329">
+			<!-- said -->
+			<text src="../021.xhtml#w329"/>
+			<audio clipBegin="195236ms" clipEnd="195566ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id330">
+			<!-- Simone -->
+			<text src="../021.xhtml#w330"/>
+			<audio clipBegin="195566ms" clipEnd="196736ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id331">
+			<!-- Let's -->
+			<text src="../021.xhtml#w331"/>
+			<audio clipBegin="196736ms" clipEnd="197106ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id332">
+			<!-- write -->
+			<text src="../021.xhtml#w332"/>
+			<audio clipBegin="197106ms" clipEnd="197586ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id333">
+			<!-- and -->
+			<text src="../021.xhtml#w333"/>
+			<audio clipBegin="197586ms" clipEnd="197756ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id334">
+			<!-- deliver -->
+			<text src="../021.xhtml#w334"/>
+			<audio clipBegin="197756ms" clipEnd="198306ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id335">
+			<!-- another -->
+			<text src="../021.xhtml#w335"/>
+			<audio clipBegin="198306ms" clipEnd="198826ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id336">
+			<!-- one -->
+			<text src="../021.xhtml#w336"/>
+			<audio clipBegin="198826ms" clipEnd="199136ms" src="../audio/9781484744024.m4a"/>
+		</par>
+		<par id="id336g">
+			<!--  -->
+			<text src="../021.xhtml#empty1"/>
+			<audio clipBegin="199136ms" clipEnd="199926ms" src="../audio/9781484744024.m4a"/>
+		</par>
+	</body>
+</smil>

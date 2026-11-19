@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="12645ms" clipEnd="12945ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Lara -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="12945ms" clipEnd="13395ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Bergen -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="13395ms" clipEnd="14925ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14925ms" clipEnd="15505ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15505ms" clipEnd="15695ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- the -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15695ms" clipEnd="15775ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Disney -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="15775ms" clipEnd="16205ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="16205ms" clipEnd="16835ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Artists -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="16835ms" clipEnd="17465ms" src="../audio/9781423191827.m4a"/>
+    </par>
+    <par id="id9g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="17465ms" clipEnd="18410ms" src="../audio/9781423191827.m4a"/>
+    </par>
+  </body>
+</smil>
